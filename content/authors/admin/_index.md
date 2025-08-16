@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Managing editor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Ludwig-Maximilians Universität, Munich, Germany
-    url: https://www.behavioural-ecology.bio.lmu.de/research/index.html
+  - name: INRAE, Direction pour la Science Ouverte (DipSO), France
+    url: https://science-ouverte.inrae.fr/fr/la-science-ouverte/la-direction-pour-la-science-ouverte
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a researcher interested in among-individual differences in wild vertebrate populations.
+bio: I am a managing editor for Peer Community In and a behavioural ecologist
 
 # Interests to show in About widget
 interests:
@@ -36,7 +36,8 @@ interests:
   - Mixed models
   - Social behaviour
   - Competition
-  - Life-history variation
+  - Open Research and publishing
+  
 
 # Education to show in About widget
 education:
@@ -61,10 +62,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/BA_Class
-    label: Follow me on Twitter
+    link: https://www.linkedin.com/in/barbara-class-20a1b033b/
+    label: Follow me on LinkedIn
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -84,6 +85,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a managing editor at Peer Community In (https://peercommunityin.org/), a non-profit organization that organizes the community-based & open evaluation of preprints and their publication in diamond open access (https://peercommunityjournal.org/). My work is based at the French National Research Institute for Agriculture, Food and Environment, where I am part of the Open Science department.
 
-I am a researcher interested in among-individual differences in wild vertebrate populations. My work is at the intersection of behavioural ecology and evolutionary biology as I study questions related to animal personality, assortative mating, social behaviour, competition, and adaptation to urbanization. To do this I use a variety of mixed models, long-term data, and simulations.
+Before that, I did a PhD and a few postdocs (in Finland, Australia, France, Germany) in behavioural ecology and evolutionary biology. Some of the topics I studied (and am still studying in my spare time) are among-individual variation (animal personality), assortative mating, social behaviour, competition, and adaptation to urbanization. To carry out this research, I use a variety of mixed models, long-term data from wild populations, and simulations. 
 {style="text-align: justify;"}
