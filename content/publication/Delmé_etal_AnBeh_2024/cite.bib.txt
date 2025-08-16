@@ -1,9 +1,0 @@
-@article{delme2024adult,
-  title={Adult males are less social than juveniles and adult females in a wild agamid species},
-  author={Delm{\'e}, Coralie and Class, Barbara and Strickland, Kasha and Fr{\`e}re, C{\'e}line H},
-  journal={Animal Behaviour},
-  volume={218},
-  pages={37--53},
-  year={2024},
-  publisher={Elsevier}
-}

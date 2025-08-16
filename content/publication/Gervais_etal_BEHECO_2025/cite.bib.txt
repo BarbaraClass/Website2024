@@ -1,9 +1,0 @@
-@article{gervais2025behavioral,
-  title={Behavioral DiverCity: individual differences in behavior change along an urbanization gradient},
-  author={Gervais, Laura and Thompson, Megan J and de Villemereuil, Pierre and Burkhard, Tracy and Teplitsky, C{\'e}line and Class, Barbara and R{\'e}ale, Denis and Charmantier, Anne},
-  journal={Behavioral Ecology},
-  volume={36},
-  number={4},
-  year={2025},
-  publisher={Oxford Academic}
-}
