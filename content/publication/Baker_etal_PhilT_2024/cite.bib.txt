@@ -1,0 +1,10 @@
+@article{baker2024active,
+  title={Active crocodiles are less sociable},
+  author={Baker, Cameron J and Class, Barbara and Dwyer, Ross G and Franklin, Craig E and Campbell, Hamish A and Irwin, Terri R and Fr{\`e}re, C{\'e}line H},
+  journal={Philosophical Transactions B},
+  volume={379},
+  number={1912},
+  pages={20220528},
+  year={2024},
+  publisher={The Royal Society}
+}

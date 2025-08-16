@@ -1,0 +1,8 @@
+@article{class2025disentangling,
+  title={Disentangling non-random assortment, indirect effects, and joint plasticity as causes of phenotypic (dis) similarity between social partners},
+  author={Class, Barbara and Araya-Ajoy, Yimen and Dingemans, Niels J and Dochtermann, Ned A and Martin, Jordan S and Moiron, Maria and Westneat, David F},
+  journal={Journal of Evolutionary Biology},
+  pages={voaf057},
+  year={2025},
+  publisher={Oxford University Press}
+}

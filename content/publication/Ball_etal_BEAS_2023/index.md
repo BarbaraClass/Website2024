@@ -23,7 +23,7 @@ publishDate: "2023-06-21T00:00:00Z"
 title: "Agonism does not covary with territoriality in a gregarious reptile"
 url_code: ""
 url_dataset: ""
-url_pdf: https://link.springer.com/article/10.1007/s00265-023-03348-0#citeas
+url_pdf: https://doi.org/10.1007/s00265-023-03348-0
 url_poster: ""
 url_project: ""
 url_slides: ""

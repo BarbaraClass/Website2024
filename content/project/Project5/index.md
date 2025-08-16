@@ -11,7 +11,7 @@ links:
   url: "https://www.behavioural-ecology.bio.lmu.de/people/professor/dingemanse/index.html"
 slides: ""
 summary: " "
-title: "Project 5: Social competition within- and among-species: drivers of pace-of-life in wild passerine birds? (Post-doc 4, 2023-)"
+title: "Project 5: Social competition within- and among-species: drivers of pace-of-life in wild passerine birds? (Post-doc 4, 2023-2024)"
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -54,15 +54,7 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Managing editor
-          company: Peer Community In, INRAE
-          company_url: ''
-          company_logo: org-inrae
-          location: Montpellier, France
-          date_start: '2024-11-01'
-          date_end: ''
-          description:       
+      items:    
         - title: Post-doctoral Researcher
           company: LMU, Munich
           company_url: ''
