@@ -54,7 +54,15 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:    
+      items:
+        - title: Managing editor
+          company: Peer Community In, INRAE
+          company_url: ''
+          company_logo: org-inrae
+          location: Montpellier, France
+          date_start: '2024-11-01'
+          date_end: ''
+          description:           
         - title: Post-doctoral Researcher
           company: LMU, Munich
           company_url: ''
@@ -149,27 +157,27 @@ sections:
       text: |-
 
       # Contact (add or remove contact options as necessary)
-      email: class[at]bio[dot]lmu[dot].de
+      email: barbara[dot].class[at]inrae[dot]fr
       phone: 
       appointment_url: ''
       address:
-        street: Großhaderner Straße 2
-        city: Planegg-Martinsried
+        street: Av. du Campus Agropolis
+        city: Montferrier-sur-Lez
         region: 
-        postcode: '82152'
-        country: Germany
+        postcode: 34980
+        country: France
         country_code: 
       directions: 
       office_hours:
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '48.10907862836481'
-        longitude: '11.45749699414951275'  
+        latitude: '43.68267625683094'
+        longitude: '3.875169445067236'
       contact_links:
-        - icon: twitter
+        - icon: linkedin
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/BA_Class'
+          link: 'www.linkedin.com/in/barbara-class-20a1b033b'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
