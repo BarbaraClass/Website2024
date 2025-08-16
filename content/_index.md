@@ -149,15 +149,15 @@ sections:
       text: |-
 
       # Contact (add or remove contact options as necessary)
-      email: barbara[dot].class[at]inrae[dot]fr
+      email: barbara[dot]class[at]inrae[dot]fr
       phone: 
       appointment_url: ''
       address:
-        street: Av. du Campus Agropolis
-        city: Montferrier-sur-Lez
+        street: 'Av. du Campus Agropolis'
+        city: 'Montferrier-sur-Lez'
         region: 
         postcode: '34980'
-        country: France
+        country: 'France'
         country_code: 
       directions: 
       office_hours:
