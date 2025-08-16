@@ -55,15 +55,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Managing editor
+          company: Peer Community In, INRAE
+          company_url: ''
+          company_logo: org-inrae
+          location: Montpellier, France
+          date_start: '2024-11-01'
+          date_end: ''
+          description:       
         - title: Post-doctoral Researcher
           company: LMU, Munich
           company_url: ''
           company_logo: org-lmu
           location: Munich, Germany
           date_start: '2023-01-01'
-          date_end: ''
-          description: |2-
-              "Social competition within- and among-species: drivers of pace-of-life in wild passerine birds?" (Niels Dingemanse Lab)
+          date_end: '2024-10-31'
+          description: Social competition within- and among-species: drivers of pace-of-life in wild passerine birds? (Niels Dingemanse Lab)
         - title: Post-doctoral Researcher
           company: CEFE, Montpellier
           company_url: ''
