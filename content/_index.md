@@ -164,7 +164,7 @@ sections:
         street: Av. du Campus Agropolis
         city: Montferrier-sur-Lez
         region: 
-        postcode: 34980
+        postcode: '34980'
         country: France
         country_code: 
       directions: 
